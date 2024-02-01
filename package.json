@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/kotlin-demos/kotlin-js-hello-world-demo#readme",
   "dependencies": {
-    "string": "^3.3.3"
+    "string": "3.3.3"
   }
 }
